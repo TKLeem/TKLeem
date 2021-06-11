@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning 
 { 
-C++
+Pyyhon
 }
 
 - 💞️ I’m looking to collaborate on ...
